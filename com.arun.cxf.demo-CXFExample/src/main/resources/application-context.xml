@@ -25,4 +25,6 @@
     <!-- JAX-WS Service Endpoint -->    
     <jaxws:endpoint id="personService" implementor="#personServ" address="/personService" />
     
+  
+    
 </beans>
