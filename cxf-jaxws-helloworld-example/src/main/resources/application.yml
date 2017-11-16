@@ -1,0 +1,12 @@
+client:
+  ticketagent:
+    address: http://localhost:7777/cxf.springboot/ws/helloworld
+
+server:
+  port: 7777
+
+cxf:
+  path: /cxf.springboot/ws
+  
+  
+  
